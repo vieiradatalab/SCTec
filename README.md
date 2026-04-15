@@ -1,2 +1,2 @@
 # SCTec
-Repositório com Exercícios e Projeto da Etapa Profissionalizar do SECTEC 2026
+Repositório com Exercícios e Projetos da Etapa Profissionalizar do SECTEC 2026
